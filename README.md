@@ -1,0 +1,1 @@
+This is a MERN Stack Admin Dashboard. build using Material UI, Material UI Data Grid, Nivo Charts, Redux Toolkit and Redux Toolkit Query for frontend. and backend is builed by using Node JS, Express Js, Mongoose, and MongoDB. 
